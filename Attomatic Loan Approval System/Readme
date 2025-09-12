@@ -1,3 +1,0 @@
-The project is designed to automatically decide whether a loan application should be approved or rejected based on user-provided details such as income, credit score, existing debts, and employment status.
-It uses a  machine learning algorithms to evaluate the input against bank-defined eligibility criteria.
-Once the applicant submits the data, the system processes it instantly and displays a result: "Loan Approved" or "Loan Rejected", along with reasons for the decision.

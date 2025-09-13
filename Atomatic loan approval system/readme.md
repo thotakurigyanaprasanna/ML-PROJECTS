@@ -43,8 +43,5 @@ It leverages **machine learning algorithms** to evaluate the applicant’s profi
 - Deploy as a REST API for financial institutions  
 - Add deep learning models for enhanced prediction performance  
 
----
 
-## 📷 Preview
-![Loan Approval Flow](assets/loan_approval.png)
 
